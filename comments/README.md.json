@@ -312,6 +312,25 @@
       "replies": []
     },
     {
+      "id": "2784afdf-3c3e-4002-a8a3-f030e159c71a",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "rpg-cli",
+        "prefix": " in which you act as god over a sandbox world.\n* [",
+        "suffix": "](https://github.com/facundoolano/rpg-cli) - Your ",
+        "startOffset": 118486,
+        "endOffset": 118493,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "🎮 最有创意的CLI工具之一——把cd命令变成地牢探索，每次切换目录都可能触发随机战斗，文件系统就是你的冒险地图。纯粹好玩，把枯燥的终端操作变成JRPG。",
+      "createdAt": "2026-03-05T16:18:53.993Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "42436802-f0f7-43cf-abbf-26a429f42b6e",
       "author": {
         "login": "claude",
