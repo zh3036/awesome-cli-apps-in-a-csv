@@ -2,9 +2,9 @@
   "version": 1,
   "metadata": {
     "repo": "zh3036/awesome-cli-apps-in-a-csv",
-    "branch": "main",
+    "branch": "master",
     "filePath": "README.md",
-    "url": "https://md-comment.fly.dev/zh3036/awesome-cli-apps-in-a-csv/blob/main/README.md"
+    "url": "https://md-comment.fly.dev/zh3036/awesome-cli-apps-in-a-csv/blob/master/README.md"
   },
   "comments": [
     {
@@ -23,6 +23,25 @@
       },
       "body": "good",
       "createdAt": "2026-03-05T15:57:29.767Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "id": "9060b636-e28f-4c57-97c4-a3c2cd260b97",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "Email](#email) (18)",
+        "prefix": "#disk-analyzer) (13)\n* [Editors](#editors) (27), [",
+        "suffix": "\n* [File and file system handling](#file-handling)",
+        "startOffset": 1644,
+        "endOffset": 1663,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "📧 这个分类里最值得关注的：Himalaya（Rust写的纯CLI邮件工具，完全stateless且pipeline友好）和 pop（Charmbracelet出品，stdin管道直接发邮件）。两者都能被Claude Code直接调用实现自动化邮件通知，集成成本几乎为零。aerc则是hacker风格邮件客户端，内嵌终端支持git-email工作流。",
+      "createdAt": "2026-03-05T16:13:26.651Z",
       "resolved": false,
       "replies": []
     },
@@ -103,6 +122,7 @@
       "replies": []
     },
     {
+      "id": "63306d6a-f289-4ea3-8e13-d00695abf5ae",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -116,7 +136,6 @@
         "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
       },
       "body": "inteersting",
-      "id": "63306d6a-f289-4ea3-8e13-d00695abf5ae",
       "createdAt": "2026-03-05T16:01:46.431Z",
       "resolved": false,
       "replies": []
