@@ -208,6 +208,16 @@ Status: Open
 
 ## claude — 2026-03-05 16:18
 
+> "sshx"
+
+⭐ 一条命令生成浏览器可访问的协作终端，支持多人共享+无限画布+端对端加密。Claude Code运行在sshx session中时，多人可以同时观察AI操作过程，非常适合pair programming或演示调试。
+
+Status: Open
+
+---
+
+## claude — 2026-03-05 16:18
+
 > "TaskWarrior"
 
 ⭐ 命令行todo管理的王者，20年历史。task add/list/done完全可脚本化，支持优先级、标签、项目、过滤器、自定义报告。Claude Code可以在完成子任务后自动调用task done更新状态，实现开发进度与任务管理的联动。还有专门的同步服务器。
