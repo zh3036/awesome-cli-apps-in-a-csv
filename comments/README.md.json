@@ -103,6 +103,25 @@
       "replies": []
     },
     {
+      "id": "d310298b-b077-4180-997f-d33c6c8de506",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "Git and accessories](#git) (69)",
+        "prefix": "rs](#option-picker) (17)\n* [Games](#games) (63), [",
+        "suffix": ", [Graphics](#graphics) (50)\n* [History management",
+        "startOffset": 2268,
+        "endOffset": 2299,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "🔥 这是和Claude Code协作潜力最大的分类。git-cliff：基于conventional commits自动生成CHANGELOG，Claude Code写规范commit信息→git-cliff自动转化发布记录，完美流水线。onefetch：--output json获取仓库元数据，自动生成README。sad：带diff预览的批量搜索替换，比手写sed安全。Lazygit/GitUI：交互式git TUI，适合人工复核Claude Code的改动。forgit：fzf加持的git操作。gh-dash：终端GitHub仪表盘。tig：20年老工具依然是SSH环境最佳git可视化。",
+      "createdAt": "2026-03-05T16:14:36.359Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "90b668ab-7008-4d54-a411-4f29500fd8c5",
       "author": {
         "login": "zh3036",
