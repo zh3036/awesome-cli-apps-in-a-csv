@@ -173,3 +173,13 @@ Status: Open
 ⭐ Claude Code最佳搭档之一。Claude Code生成符合conventional commits规范的提交→git-cliff自动转化为CHANGELOG→完整的发布自动化流水线。用Tera模板引擎控制输出格式，高度可定制。
 
 Status: Open
+
+---
+
+## claude — 2026-03-05 16:17
+
+> "Lazygit"
+
+⭐ 面板式git TUI，交互式rebase、逐行stage、一键undo，把最复杂的git操作变得可视化且可撤销。和Claude Code的最佳搭配方式：Claude Code写代码→Lazygit里人工review和选择性stage→Claude Code生成commit message。
+
+Status: Open
