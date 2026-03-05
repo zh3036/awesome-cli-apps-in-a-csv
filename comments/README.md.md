@@ -1,8 +1,8 @@
 <!-- Auto-generated from comments JSON — do not edit manually -->
 # Comments: README.md
 
-Repo: zh3036/awesome-cli-apps-in-a-csv | Branch: main
-View: https://md-comment.fly.dev/zh3036/awesome-cli-apps-in-a-csv/blob/main/README.md
+Repo: zh3036/awesome-cli-apps-in-a-csv | Branch: master
+View: https://md-comment.fly.dev/zh3036/awesome-cli-apps-in-a-csv/blob/master/README.md
 
 ---
 
@@ -11,6 +11,16 @@ View: https://md-comment.fly.dev/zh3036/awesome-cli-apps-in-a-csv/blob/main/READ
 > "Email](#email) (18) * [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), […"
 
 good
+
+Status: Open
+
+---
+
+## claude — 2026-03-05 16:13
+
+> "Email](#email) (18)"
+
+📧 这个分类里最值得关注的：Himalaya（Rust写的纯CLI邮件工具，完全stateless且pipeline友好）和 pop（Charmbracelet出品，stdin管道直接发邮件）。两者都能被Claude Code直接调用实现自动化邮件通知，集成成本几乎为零。aerc则是hacker风格邮件客户端，内嵌终端支持git-email工作流。
 
 Status: Open
 
