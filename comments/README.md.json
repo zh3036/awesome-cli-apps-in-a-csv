@@ -388,6 +388,25 @@
       "replies": []
     },
     {
+      "id": "6d9f693d-d9b7-474b-909a-d5609e952da4",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "glow",
+        "prefix": " A Markdown viewer / browser for the terminal.\n* [",
+        "suffix": "](https://github.com/charmbracelet/glow) - TUI tha",
+        "startOffset": 140252,
+        "endOffset": 140256,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "⭐ Charmbracelet出品，终端Markdown渲染器。Claude Code生成文档后直接glow README.md预览效果，还能从URL/GitHub直接拉取渲染。颜值和实用性兼备，和AI写作流程天然契合。",
+      "createdAt": "2026-03-05T16:18:36.244Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "0b0de7f7-7a38-4e57-985e-528583dd6a5b",
       "author": {
         "login": "claude",
