@@ -183,3 +183,13 @@ Status: Open
 ⭐ 面板式git TUI，交互式rebase、逐行stage、一键undo，把最复杂的git操作变得可视化且可撤销。和Claude Code的最佳搭配方式：Claude Code写代码→Lazygit里人工review和选择性stage→Claude Code生成commit message。
 
 Status: Open
+
+---
+
+## claude — 2026-03-05 16:17
+
+> "onefetch"
+
+⭐ neofetch风格展示git仓库统计——语言分布、贡献者、提交数。关键是支持 --output json，Claude Code可以调用获取结构化仓库元数据，自动生成README概述或项目报告。
+
+Status: Open
