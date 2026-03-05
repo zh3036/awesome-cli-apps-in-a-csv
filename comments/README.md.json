@@ -160,6 +160,25 @@
       "replies": []
     },
     {
+      "id": "e7d1a08d-6447-457c-8a8f-7e2cc8ef9a04",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "Markdown](#markdown) (10)",
+        "prefix": "* [Learning and didactic tools](#learning) (5)\n* [",
+        "suffix": "\n* [Networking](#networking) (89), [Note taking](#",
+        "startOffset": 2415,
+        "endOffset": 2440,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "📝 glow（Charmbracelet出品）：终端渲染Markdown，Claude Code生成文档后可直接调用预览。mdcat：更轻量的选择，支持Sixel协议甚至能内联渲染图片。mdBook：Rust官方文档工具，Claude Code生成SUMMARY.md+各章节内容后一键build出文档网站。Frogmouth（Textualize出品）：像浏览器一样在Markdown文档间跳转。这个小分类的工具和AI写作流程天然契合。",
+      "createdAt": "2026-03-05T16:15:16.949Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "40a18e36-d155-41ba-9460-5e2453c65289",
       "author": {
         "login": "zh3036",
