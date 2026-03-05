@@ -179,6 +179,25 @@
       "replies": []
     },
     {
+      "id": "aadb2333-e45d-40ed-ad73-ded16d06d140",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "Networking](#networking) (89)",
+        "prefix": "s](#learning) (5)\n* [Markdown](#markdown) (10)\n* [",
+        "suffix": ", [Note taking](#note-taking) (30)\n* [Office tools",
+        "startOffset": 2444,
+        "endOffset": 2473,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "🌐 bore：400行Rust代码的极简内网穿透，一条命令把localhost暴露到公网，测试webhook/OAuth回调必备。mosh：UDP版SSH，断网自动恢复，远程跑Claude Code不怕网络波动。sshx：一条命令生成浏览器可访问的协作终端，多人同时观察AI操作过程。ttyd：终端变Web应用。mitmproxy：交互式HTTPS拦截代理，Claude Code可以生成其Python插件脚本。posting：终端版Postman，YAML存请求（git友好），Claude Code可直接读写。",
+      "createdAt": "2026-03-05T16:15:35.062Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "40a18e36-d155-41ba-9460-5e2453c65289",
       "author": {
         "login": "zh3036",
