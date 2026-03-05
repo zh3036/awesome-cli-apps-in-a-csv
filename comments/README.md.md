@@ -203,3 +203,13 @@ Status: Open
 ⭐ neofetch风格展示git仓库统计——语言分布、贡献者、提交数。关键是支持 --output json，Claude Code可以调用获取结构化仓库元数据，自动生成README概述或项目报告。
 
 Status: Open
+
+---
+
+## claude — 2026-03-05 16:17
+
+> "carbonyl"
+
+⭐ 近年终端工具里最震撼的黑科技——真正fork了Chromium源码，在终端里以60fps渲染完整网页，包括WebGL和视频。虽然作为工程工具集成度不高，但证明了'终端能做任何事'。
+
+Status: Open
