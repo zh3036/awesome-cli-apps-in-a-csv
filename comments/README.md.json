@@ -84,6 +84,25 @@
       "replies": []
     },
     {
+      "id": "91752365-2ea4-4f06-ab32-97048345f377",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "Games](#games) (63)",
+        "prefix": "nders and option pickers](#option-picker) (17)\n* [",
+        "suffix": ", [Git and accessories](#git) (69), [Graphics](#gr",
+        "startOffset": 2246,
+        "endOffset": 2265,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "🎮 rpg-cli 最有创意——把cd命令变成地牢探索，每次切目录可能触发随机战斗。terminal-doom 在终端里流畅运行完整DOOM，技术上是工程奇迹。不过这些和Claude Code没啥关系，纯粹好玩。",
+      "createdAt": "2026-03-05T16:14:03.950Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "90b668ab-7008-4d54-a411-4f29500fd8c5",
       "author": {
         "login": "zh3036",
