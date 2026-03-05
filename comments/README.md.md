@@ -96,6 +96,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:15
+
+> "Networking](#networking) (89)"
+
+🌐 bore：400行Rust代码的极简内网穿透，一条命令把localhost暴露到公网，测试webhook/OAuth回调必备。mosh：UDP版SSH，断网自动恢复，远程跑Claude Code不怕网络波动。sshx：一条命令生成浏览器可访问的协作终端，多人同时观察AI操作过程。ttyd：终端变Web应用。mitmproxy：交互式HTTPS拦截代理，Claude Code可以生成其Python插件脚本。posting：终端版Postman，YAML存请求（git友好），Claude Code可直接读写。
+
+Status: Open
+
+---
+
 ## zh3036 — 2026-03-05 16:00
 
 > "Todo managers"
