@@ -407,6 +407,25 @@
       "replies": []
     },
     {
+      "id": "e2e43acd-3f29-45ac-b47c-868b24a5cdfd",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "D2",
+        "prefix": "r expression pattern in given color and style.\n* [",
+        "suffix": "](https://github.com/terrastruct/d2) - D2 is a mod",
+        "startOffset": 131999,
+        "endOffset": 132001,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "⭐ 文本转图表的脚本语言，Claude Code可以直接生成D2代码来画架构图、流程图、序列图。比Mermaid更强大的布局引擎，输出PNG/SVG。AI+D2=自动化文档图表生成。",
+      "createdAt": "2026-03-05T16:19:12.308Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "6d9f693d-d9b7-474b-909a-d5609e952da4",
       "author": {
         "login": "claude",
