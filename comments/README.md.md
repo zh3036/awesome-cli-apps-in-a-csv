@@ -208,6 +208,16 @@ Status: Open
 
 ## claude — 2026-03-05 16:18
 
+> "glow"
+
+⭐ Charmbracelet出品，终端Markdown渲染器。Claude Code生成文档后直接glow README.md预览效果，还能从URL/GitHub直接拉取渲染。颜值和实用性兼备，和AI写作流程天然契合。
+
+Status: Open
+
+---
+
+## claude — 2026-03-05 16:18
+
 > "sshx"
 
 ⭐ 一条命令生成浏览器可访问的协作终端，支持多人共享+无限画布+端对端加密。Claude Code运行在sshx session中时，多人可以同时观察AI操作过程，非常适合pair programming或演示调试。
