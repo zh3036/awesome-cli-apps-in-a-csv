@@ -46,6 +46,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:14
+
+> "Games](#games) (63)"
+
+🎮 rpg-cli 最有创意——把cd命令变成地牢探索，每次切目录可能触发随机战斗。terminal-doom 在终端里流畅运行完整DOOM，技术上是工程奇迹。不过这些和Claude Code没啥关系，纯粹好玩。
+
+Status: Open
+
+---
+
 ## zh3036 — 2026-03-05 15:58
 
 > "Markdown](#markdown) (10) * [Networking](#networking) (89), [Note taking](#note-taking) (30) * [Office tools](#office) (21), [Online search and resources](#online) (29), [Organizers and calendars](#or…"
