@@ -388,6 +388,25 @@
       "replies": []
     },
     {
+      "id": "0b0de7f7-7a38-4e57-985e-528583dd6a5b",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "sshx",
+        "prefix": " with Linux and macOS. Supports DNS tunneling.\n* [",
+        "suffix": "](https://github.com/ekzhang/sshx) - Fast, collabo",
+        "startOffset": 150858,
+        "endOffset": 150862,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "⭐ 一条命令生成浏览器可访问的协作终端，支持多人共享+无限画布+端对端加密。Claude Code运行在sshx session中时，多人可以同时观察AI操作过程，非常适合pair programming或演示调试。",
+      "createdAt": "2026-03-05T16:18:16.254Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "b402a79c-8068-4007-aced-44bc6e1b7821",
       "author": {
         "login": "claude",
