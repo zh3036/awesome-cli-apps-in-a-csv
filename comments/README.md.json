@@ -312,6 +312,25 @@
       "replies": []
     },
     {
+      "id": "42436802-f0f7-43cf-abbf-26a429f42b6e",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "bore",
+        "prefix": "ard_games](https://github.com/salt-die/terminally_",
+        "suffix": "d_terminal_board_games) - Board games for the term",
+        "startOffset": 120109,
+        "endOffset": 120113,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "⭐ 400行Rust代码的极简内网穿透。bore local 8080 --to bore.pub 一条命令把本地dev server暴露到公网。Claude Code开发阶段测试webhook、OAuth回调等需要公网URL的场景时，可以自动调用bore完成。",
+      "createdAt": "2026-03-05T16:17:30.782Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "26fbbcbc-5d91-412a-9281-99728e16d470",
       "author": {
         "login": "claude",
