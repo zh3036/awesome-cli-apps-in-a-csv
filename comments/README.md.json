@@ -84,6 +84,7 @@
       "replies": []
     },
     {
+      "id": "a5958d16-26d7-44a9-80f0-8119ec346ed2",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -97,8 +98,26 @@
         "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
       },
       "body": "very cool",
-      "id": "a5958d16-26d7-44a9-80f0-8119ec346ed2",
       "createdAt": "2026-03-05T16:01:24.789Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "Writing",
+        "prefix": "#browser) (19), [Web development](#webdev) (33), [",
+        "suffix": "](#writing) (11)\n\n## <a name=\"ai\"></a>AI / ChatGPT",
+        "startOffset": 3819,
+        "endOffset": 3826,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "inteersting",
+      "id": "63306d6a-f289-4ea3-8e13-d00695abf5ae",
+      "createdAt": "2026-03-05T16:01:46.431Z",
       "resolved": false,
       "replies": []
     }
