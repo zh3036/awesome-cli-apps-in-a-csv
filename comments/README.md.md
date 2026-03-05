@@ -136,6 +136,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:16
+
+> "Web browser"
+
+🌍 carbonyl：真正fork了Chromium源码在终端60fps渲染完整网页（WebGL、视频），近年终端工具里最震撼的黑科技。browsh：headless Firefox驱动，5MB网页压缩到15KB通过SSH传输。w3m：25年历史的文本浏览器，w3m -dump URL一行提取网页纯文本，Claude Code可以直接调用来抓取静态页面内容，启动快输出稳定。这个分类'very cool'实至名归。
+
+Status: Open
+
+---
+
 ## zh3036 — 2026-03-05 16:01
 
 > "Writing"
