@@ -386,6 +386,25 @@
       "createdAt": "2026-03-05T16:17:15.857Z",
       "resolved": false,
       "replies": []
+    },
+    {
+      "id": "8179e6c6-40fb-4d9d-bc48-09dd0efa28a3",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "carbonyl",
+        "prefix": " browsing speeds and decrease bandwidth costs.\n* [",
+        "suffix": "](https://github.com/fathyb/carbonyl) - Chromium r",
+        "startOffset": 282202,
+        "endOffset": 282210,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "⭐ 近年终端工具里最震撼的黑科技——真正fork了Chromium源码，在终端里以60fps渲染完整网页，包括WebGL和视频。虽然作为工程工具集成度不高，但证明了'终端能做任何事'。",
+      "createdAt": "2026-03-05T16:17:45.369Z",
+      "resolved": false,
+      "replies": []
     }
   ]
 }
