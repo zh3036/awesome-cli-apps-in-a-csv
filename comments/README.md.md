@@ -26,6 +26,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:13
+
+> "File and file system handling](#file-handling) (29)"
+
+📁 ouch：自动识别压缩格式一键解压，Claude Code不需要记tar/unzip/7z各种flag。PathPicker（Facebook出品）：把任意命令输出变成文件选择器。Yazi：全异步Rust文件管理器，内置图片预览+语法高亮。vidir：用编辑器批量重命名文件。xplr：LuaJIT可编程的文件浏览框架。这些工具和Claude Code配合最好的是ouch——无歧义的CLI接口。
+
+Status: Open
+
+---
+
 ## zh3036 — 2026-03-05 15:57
 
 > "Games](#games) (63), [Git and accessories](#git) (69), [Graphics](#graphics) (50) * [History management](#history) (5) * [Learning and didactic tools](#learning) (5) * [Markdown](#markdown) (10) * [Ne…"
