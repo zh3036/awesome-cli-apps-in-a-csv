@@ -291,6 +291,25 @@
       "createdAt": "2026-03-05T16:01:46.431Z",
       "resolved": false,
       "replies": []
+    },
+    {
+      "id": "2d5a99c8-e732-4a6b-8758-028838507e7e",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "Writing",
+        "prefix": "#browser) (19), [Web development](#webdev) (33), [",
+        "suffix": "](#writing) (11)\n\n## <a name=\"ai\"></a>AI / ChatGPT",
+        "startOffset": 3819,
+        "endOffset": 3826,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "✍️ write-good：用lint的方式检查英文写作——被动语态、模糊词、冗余表达一网打尽。Claude Code生成README后pipe给它做自动检查，形成'生成→检查→修订'闭环。Translate Shell：支持Google/Bing/Yandex多引擎翻译的终端瑞士军刀，批量翻译文档片段时可作为Claude Code的补充管道工具。Grammatical：ChatGPT做语法纠错的CLI，但功能和Claude Code自身能力高度重叠。",
+      "createdAt": "2026-03-05T16:16:30.052Z",
+      "resolved": false,
+      "replies": []
     }
   ]
 }
