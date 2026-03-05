@@ -65,6 +65,7 @@
       "replies": []
     },
     {
+      "id": "40a18e36-d155-41ba-9460-5e2453c65289",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -78,8 +79,26 @@
         "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
       },
       "body": "good",
-      "id": "40a18e36-d155-41ba-9460-5e2453c65289",
       "createdAt": "2026-03-05T16:00:13.848Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "Web browser",
+        "prefix": "[Video](#video) (14), [Viewers](#viewers) (47)\n* [",
+        "suffix": "](#browser) (19), [Web development](#webdev) (33),",
+        "startOffset": 3756,
+        "endOffset": 3767,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "very cool",
+      "id": "a5958d16-26d7-44a9-80f0-8119ec346ed2",
+      "createdAt": "2026-03-05T16:01:24.789Z",
       "resolved": false,
       "replies": []
     }
