@@ -1,7 +1,33 @@
 {
   "version": 1,
+  "metadata": {
+    "repo": "zh3036/awesome-cli-apps-in-a-csv",
+    "branch": "main",
+    "filePath": "README.md",
+    "url": "https://md-comment.fly.dev/zh3036/awesome-cli-apps-in-a-csv/blob/main/README.md"
+  },
   "comments": [
     {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "Email](#email) (18)\n* [File and file system handling](#file-handling) (29), [File deletion and trash bin (alternatives to rm)](#rm) (14), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (9), [File listing (alternatives to ls)](#ls) (11), [File manager](#file-manager) (22), [File renamers](#file-renamer) (15), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (21), [Font management](#font) (4), [Funny tools](#funny) (19), [Fuzzy finders and option pickers](#option-picker) (17)\n* [Games](#games) (63), [Git and accessories](#git) (69), [Graphics](#graphics) (50)\n* [History management](#history) (5)\n* [Learning and didactic tools](#learning) (5)\n* [Markdown](#markdown) (10)\n* [Networking](#networking) (89), [Note taking](#note-taking) (30)\n* [Office tools](#office) (21), [Online search and resources](#online) (29), [Organizers and calendars](#organizers) (22)\n* [Package managers](#package-manager) (22), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (28), [Productivity](#productivity) (14), [Program templates and boilerplate](#programming-boilerplate) (13), [Programming](#programming) (63), [Prompts](#prompt) (13)\n* [RSS](#rss) (10), [Religion](#religion) (4)\n* [Science](#science) (21), [Screen recorder](#screen-recorder) (11), [Screen savers](#screensaver) (7), [Security and encryption](#security) (40), [Shells](#shells) (25), [Sound and music](#music) (62), [System monitoring](#monitor) (53), [System tools](#system) (46)\n* [Terminals](#terminal) (24), [Text processing](#text-processing) (58), [Text search (alternatives to grep)](#text-search) (18)",
+        "prefix": "#disk-analyzer) (13)\n* [Editors](#editors) (27), [",
+        "suffix": ", [Text search and replace (alternatives to sed)](",
+        "startOffset": 1644,
+        "endOffset": 3427,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "good",
+      "id": "a9612b2c-2b1c-46e9-bc29-d5509eab6e00",
+      "createdAt": "2026-03-05T15:57:29.767Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "id": "29255fba-5bbb-4df4-9cb4-a3fc16c68363",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -15,16 +41,9 @@
         "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
       },
       "body": "good",
-      "id": "29255fba-5bbb-4df4-9cb4-a3fc16c68363",
       "createdAt": "2026-03-05T15:57:14.340Z",
       "resolved": false,
       "replies": []
     }
-  ],
-  "metadata": {
-    "repo": "zh3036/awesome-cli-apps-in-a-csv",
-    "branch": "main",
-    "filePath": "README.md",
-    "url": "https://md-comment.fly.dev/zh3036/awesome-cli-apps-in-a-csv/blob/main/README.md"
-  }
+  ]
 }
