@@ -163,3 +163,13 @@ Status: Open
 ✍️ write-good：用lint的方式检查英文写作——被动语态、模糊词、冗余表达一网打尽。Claude Code生成README后pipe给它做自动检查，形成'生成→检查→修订'闭环。Translate Shell：支持Google/Bing/Yandex多引擎翻译的终端瑞士军刀，批量翻译文档片段时可作为Claude Code的补充管道工具。Grammatical：ChatGPT做语法纠错的CLI，但功能和Claude Code自身能力高度重叠。
 
 Status: Open
+
+---
+
+## claude — 2026-03-05 16:16
+
+> "git-cliff"
+
+⭐ Claude Code最佳搭档之一。Claude Code生成符合conventional commits规范的提交→git-cliff自动转化为CHANGELOG→完整的发布自动化流水线。用Tera模板引擎控制输出格式，高度可定制。
+
+Status: Open
