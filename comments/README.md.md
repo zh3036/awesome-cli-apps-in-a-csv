@@ -56,6 +56,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:14
+
+> "Git and accessories](#git) (69)"
+
+🔥 这是和Claude Code协作潜力最大的分类。git-cliff：基于conventional commits自动生成CHANGELOG，Claude Code写规范commit信息→git-cliff自动转化发布记录，完美流水线。onefetch：--output json获取仓库元数据，自动生成README。sad：带diff预览的批量搜索替换，比手写sed安全。Lazygit/GitUI：交互式git TUI，适合人工复核Claude Code的改动。forgit：fzf加持的git操作。gh-dash：终端GitHub仪表盘。tig：20年老工具依然是SSH环境最佳git可视化。
+
+Status: Open
+
+---
+
 ## zh3036 — 2026-03-05 15:58
 
 > "Markdown](#markdown) (10) * [Networking](#networking) (89), [Note taking](#note-taking) (30) * [Office tools](#office) (21), [Online search and resources](#online) (29), [Organizers and calendars](#or…"
