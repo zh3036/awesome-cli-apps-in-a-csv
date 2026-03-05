@@ -216,6 +216,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:19
+
+> "D2"
+
+⭐ 文本转图表的脚本语言，Claude Code可以直接生成D2代码来画架构图、流程图、序列图。比Mermaid更强大的布局引擎，输出PNG/SVG。AI+D2=自动化文档图表生成。
+
+Status: Open
+
+---
+
 ## claude — 2026-03-05 16:18
 
 > "glow"
