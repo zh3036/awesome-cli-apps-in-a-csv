@@ -348,6 +348,25 @@
       "createdAt": "2026-03-05T16:17:00.708Z",
       "resolved": false,
       "replies": []
+    },
+    {
+      "id": "cf702242-d984-4a3b-96bc-eb7061c7ca6c",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "onefetch",
+        "prefix": "ases/tags and release notes from the terminal.\n* [",
+        "suffix": "](https://github.com/o2sh/onefetch) - Git reposito",
+        "startOffset": 128841,
+        "endOffset": 128849,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "⭐ neofetch风格展示git仓库统计——语言分布、贡献者、提交数。关键是支持 --output json，Claude Code可以调用获取结构化仓库元数据，自动生成README概述或项目报告。",
+      "createdAt": "2026-03-05T16:17:15.857Z",
+      "resolved": false,
+      "replies": []
     }
   ]
 }
