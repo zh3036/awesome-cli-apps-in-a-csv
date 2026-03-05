@@ -255,6 +255,25 @@
       "replies": []
     },
     {
+      "id": "77ed851c-8615-453f-bc86-60b6406d8ec5",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "Web browser",
+        "prefix": "[Video](#video) (14), [Viewers](#viewers) (47)\n* [",
+        "suffix": "](#browser) (19), [Web development](#webdev) (33),",
+        "startOffset": 3756,
+        "endOffset": 3767,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "🌍 carbonyl：真正fork了Chromium源码在终端60fps渲染完整网页（WebGL、视频），近年终端工具里最震撼的黑科技。browsh：headless Firefox驱动，5MB网页压缩到15KB通过SSH传输。w3m：25年历史的文本浏览器，w3m -dump URL一行提取网页纯文本，Claude Code可以直接调用来抓取静态页面内容，启动快输出稳定。这个分类'very cool'实至名归。",
+      "createdAt": "2026-03-05T16:16:13.875Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
       "id": "63306d6a-f289-4ea3-8e13-d00695abf5ae",
       "author": {
         "login": "zh3036",
