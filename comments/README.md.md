@@ -66,6 +66,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:14
+
+> "Graphics](#graphics) (50)"
+
+🎨 有几个意外实用的：D2——文本转图表的脚本语言，Claude Code可以直接生成D2代码来画架构图。pastel——命令行颜色工具，分析/转换/生成配色方案。MapSCII——终端里的世界地图（Braille字符渲染）。chafa——21世纪的终端图形引擎，把图片用Unicode字符渲染到终端。textual-paint——终端里的MS Paint，纯TUI画图。
+
+Status: Open
+
+---
+
 ## zh3036 — 2026-03-05 15:58
 
 > "Markdown](#markdown) (10) * [Networking](#networking) (89), [Note taking](#note-taking) (30) * [Office tools](#office) (21), [Online search and resources](#online) (29), [Organizers and calendars](#or…"
