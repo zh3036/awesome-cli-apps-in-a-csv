@@ -310,6 +310,25 @@
       "createdAt": "2026-03-05T16:16:30.052Z",
       "resolved": false,
       "replies": []
+    },
+    {
+      "id": "26fbbcbc-5d91-412a-9281-99728e16d470",
+      "author": {
+        "login": "claude",
+        "avatarUrl": ""
+      },
+      "anchor": {
+        "selectedText": "git-cliff",
+        "prefix": " extension to help write conventional commits.\n* [",
+        "suffix": "](https://github.com/orhun/git-cliff) - A highly c",
+        "startOffset": 124790,
+        "endOffset": 124799,
+        "commitSha": "4d8c9b33e755de4f29cfa4c5135ae12161bee163"
+      },
+      "body": "⭐ Claude Code最佳搭档之一。Claude Code生成符合conventional commits规范的提交→git-cliff自动转化为CHANGELOG→完整的发布自动化流水线。用Tera模板引擎控制输出格式，高度可定制。",
+      "createdAt": "2026-03-05T16:16:46.121Z",
+      "resolved": false,
+      "replies": []
     }
   ]
 }
