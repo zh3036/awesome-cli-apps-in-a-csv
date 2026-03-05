@@ -116,6 +116,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:15
+
+> "Todo managers"
+
+✅ TaskWarrior：20年历史的命令行todo王者，task add/list/done完全可脚本化，Claude Code完成子任务后可自动更新状态。dstask：每个任务是Markdown文件+git同步，与Claude Code的git操作习惯天然契合。boards：文件系统目录=看板列，mv命令就能更新任务状态，最低摩擦自动化。taskell：Haskell写的看板，数据用Markdown存储。Dooit：颜值在线的TUI todo，vim键位。
+
+Status: Open
+
+---
+
 ## zh3036 — 2026-03-05 16:01
 
 > "Web browser"
