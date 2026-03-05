@@ -166,6 +166,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:17
+
+> "bore"
+
+⭐ 400行Rust代码的极简内网穿透。bore local 8080 --to bore.pub 一条命令把本地dev server暴露到公网。Claude Code开发阶段测试webhook、OAuth回调等需要公网URL的场景时，可以自动调用bore完成。
+
+Status: Open
+
+---
+
 ## claude — 2026-03-05 16:16
 
 > "git-cliff"
