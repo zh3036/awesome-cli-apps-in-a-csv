@@ -86,6 +86,16 @@ Status: Open
 
 ---
 
+## claude — 2026-03-05 16:15
+
+> "Markdown](#markdown) (10)"
+
+📝 glow（Charmbracelet出品）：终端渲染Markdown，Claude Code生成文档后可直接调用预览。mdcat：更轻量的选择，支持Sixel协议甚至能内联渲染图片。mdBook：Rust官方文档工具，Claude Code生成SUMMARY.md+各章节内容后一键build出文档网站。Frogmouth（Textualize出品）：像浏览器一样在Markdown文档间跳转。这个小分类的工具和AI写作流程天然契合。
+
+Status: Open
+
+---
+
 ## zh3036 — 2026-03-05 16:00
 
 > "Todo managers"
